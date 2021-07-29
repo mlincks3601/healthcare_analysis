@@ -1,8 +1,8 @@
-# healthcare_analysis
-#This analysis is based on 2014 psychiatyric patient care units
-##This analysis is based on 2014 in-patient pychiartric patient care facilities in the U.S.
+ healthcare_analysis
+ This analysis is based on 2014 psychiatyric patient care units
+ This analysis is based on 2014 in-patient pychiartric patient care facilities in the U.S.
 
-##The metrics that the analysis is based on on:
+The metrics that the analysis is based on on:
 
 ##'Hours of physical-restraint use', 'Hours of seclusion',
 ##'Patients discharged on multiple antipsychotic medications with appropriate justification',
